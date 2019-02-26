@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureTestsWithoutSpecFlow", "FeatureTestaWithoutSpecFlow\FeatureTestsWithoutSpecFlow.csproj", "{C034C989-01E6-4606-BFA3-6CAA0F357FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C034C989-01E6-4606-BFA3-6CAA0F357FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C034C989-01E6-4606-BFA3-6CAA0F357FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C034C989-01E6-4606-BFA3-6CAA0F357FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C034C989-01E6-4606-BFA3-6CAA0F357FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54533A7E-3180-450D-A36C-68DDFDEEA1AD}
+	EndGlobalSection
+EndGlobal
